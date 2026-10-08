@@ -906,6 +906,9 @@ form#contactForm {
   /* ######### 10a-iv. CTA summaries, Large screen rules ######### */
   .cta {
     min-height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .cta1 {
